@@ -1,4 +1,4 @@
-![logo-talk](_media/IMG_8206.png)
+![logo-talk](_media/_IMG_8206.png)
 
 * [EDUCATION](#education)
 * [HIGHLIGHTS](#highlights)
