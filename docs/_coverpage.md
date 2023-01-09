@@ -1,6 +1,6 @@
 ![logo-winking](_media/_IMG_8204.png)
 
-# [Aitor Hernandez <small>&#128075;</small>](#education)
+# [Aitor Hernandez](#education)
 
 `<vim-rules />`
 

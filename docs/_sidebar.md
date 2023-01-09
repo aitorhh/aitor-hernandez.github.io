@@ -15,4 +15,3 @@
 * [ACHIEVEMENTS](#achievements)
 * [PROJECTS](#projects)
 
-Credits to https://github.com/zhininghjl/zhininghjl.github.io
